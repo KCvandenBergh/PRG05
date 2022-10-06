@@ -1,0 +1,21 @@
+header{
+    color: black;
+
+}
+
+body{
+    background: rosybrown;
+    color: black;
+    max-width: 600px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+p{
+    color: black;
+    line-height:1.7;
+}
+
+article + article{
+    margin-top: 3rem;
+}
