@@ -13,7 +13,7 @@
     </h2>
 
     <p>
-        You can easily create a membership to KC banking. Click the 'I am new' button, or the <a href="register.blade.php"> button on the
+        You can easily create a membership to KC banking. Click the 'I am new' button, or the <a href="app.blade.php"> button on the
         right. If you are already a member click 'Log in'.
     </p>
 </article>
